@@ -1,2 +1,2 @@
-@def title = "Menu 3"
+@def title = "Other Projects"
 

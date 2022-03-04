@@ -1,4 +1,4 @@
-@def title = "Vahid Hosseinzadeh Portfolio site"
+@def title = "Home"
 @def tags = ["syntax", "code"]
 
 
@@ -36,6 +36,10 @@ I also like philosophy, coding, music and cinema. \\
 * [**\col{#4285F4}{Google Scholar}**](https://scholar.google.com/citations?user=0LJDQQYAAAAJ&hl=en)
 
 * [**\col{#1DA1F2}{Twitter}**](https://twitter.com/VHosseinzadehJ)
+
+* [**\col{#62DA9E}{ResearchGate}**](https://www.researchgate.net/profile/Vahid-Hosseinzadeh)
+
+
 
 
 

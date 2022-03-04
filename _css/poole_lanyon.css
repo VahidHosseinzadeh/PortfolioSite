@@ -54,6 +54,7 @@ html {
 }
 
 body {
+  font-family: Cera Round Pro;
   color: #515151;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -187,6 +188,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
+  font-family: Cera Round Pro;
   /* max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem; */
@@ -263,6 +265,7 @@ tbody tr:nth-child(odd) th {
 /* Prevent scroll on narrow devices */
 html,
 body {
+  font-family: Cera Round Pro, sans-serif;
   overflow-x: hidden;
 }
 
@@ -304,6 +307,7 @@ h6 {
  */
 
 .container {
+  font-family: Cera Round Pro;
   max-width: 28rem;
 }
 
