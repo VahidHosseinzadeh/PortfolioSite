@@ -1,8 +1,32 @@
-@def title = "Courses"
-@def hascode = true
-@def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
-@def rss_title = "Courses"
-@def rss_pubdate = Date(2019, 5, 1)
++++
+title = "Academic Informations"
+hascode = true
+date = Date(2019, 3, 22)
+rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)"
++++
+@def tags = ["syntax", "code"]
+@def mintoclevel=2
+@def maxtoclevel=2
 
-@def tags = ["syntax", "code", "image"]
+# Content
+\toc
 
+#
+
+
+## **Courses that I've passed**
+
+
+### **Courses on Machine Learning**
+
+1. [Machine Learning Specialization by Andrew Ng: Course 1: Supervised Machine Learning, Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/EES6X8VY55CM)
+
+2. [Machine Learning Specialization by Andrew Ng: Course 2: Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/KQ9764L5FHX7)
+
+
+
+## **Courses that I've taught**
+
+1. [Machine Learning Theory and Physics 1: in Persian](https://www.aparat.com/v/2wDxl)
+
+   [Machine Learning Theory and Physics 2: in Persian](https://www.aparat.com/v/OYQjH)

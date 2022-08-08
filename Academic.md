@@ -16,7 +16,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 
 
 
-## **\col{#E6A138}{ACADEMIC EDUCATION}**
+## **ACADEMIC EDUCATION**
 
 ### **B.Sc. in Physics - Solid state physics**
 [University of Mazandaran](http://en.umz.ac.ir), Babolsar, Iran, (Sept. 2005 - June 2010)
@@ -31,7 +31,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 * Thesis topic: Problem of time and cosmological initial conditions\\
 * Advisors: Prof. Kourosh Nozari, Prof. Babak Vakili.
 
-## **\col{#C4D363}{EXPERIENCES}**
+## **EXPERIENCES**
 
 ### **Soldiering Service**
 [Institute for Research in Fundamental Sciences (IPM)](http://www.ipm.ac.ir)-School of Physics, Tehran, Iran, (February 2017-June 2018)
@@ -43,8 +43,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 [Institute for Research in Fundamental Sciences (IPM)](http://www.ipm.ac.ir)-School of Physics, Tehran, Iran, (September 2018-September 2021)
 
 
-
-## **\col{#49D5CD}{PUBLICATIONS}**
+## **PUBLICATIONS**
 
 1. E. Esmaeili, V. Hosseinzadeh, p-Form Surface Charges on AdS: Renormalization and Conservation, [JHEP 2021 (11), 1-30](https://link.springer.com/content/pdf/10.1007/JHEP11(2021)062.pdf).
 
@@ -69,7 +68,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 11. V. Hosseinzadeh, and K. Nozari, 2018. Covariant statistical mechanics of non-Hamiltonian systems, [International Journal of Geometric Methods in Modern Physics, 15(02), p.1850017](https://www.worldscientific.com/doi/abs/10.1142/S0219887818500172).
 
 
-## **\col{#CF7166}{ACADEMIC REFERENCES}** 
+## **ACADEMIC REFERENCES** 
 
 ### [**\col{#9356B2}{Mohammad Mehdi Sheikh-Jabbari}**](https://scholar.google.com/citations?hl=en&user=pGU_VJkAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -106,14 +105,14 @@ Tel: +98(21)88385787
 
 
 
-## **\col{#AECB60}{AWARDS}** 
+## **AWARDS** 
 * First rank student in M.Sc.physics (2012) [Shahid Bahonar University](https://uk.ac.ir/home).\\
 
 * Member of National [Elites Foundation of Iran](https://en.bmn.ir/).\\
 
 * 3 year of research grant from [Saramadan’e Elmi Iran](https://isef.ir/).
 
-## **\col{#808000}{CONFERENCES}** 
+## **CONFERENCES** 
 
 * [IRCHEP 1400-Iranian Conference on High Energy Physics-Deciphering the Universe Ciphers](http://physics.ipm.ac.ir/conferences/irchep/index.jsp) ([chair](http://physics.ipm.ac.ir/conferences/irchep/prog.jsp))
 
