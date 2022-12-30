@@ -19,10 +19,7 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 
 ### **Courses on Machine Learning**
 
-1. [Machine Learning Specialization by Andrew Ng: Course 1: Supervised Machine Learning, Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/EES6X8VY55CM)
-
-2. [Machine Learning Specialization by Andrew Ng: Course 2: Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/KQ9764L5FHX7)
-
+1. [Machine Learning Specialization on Coursera by Andrew Ng](https://coursera.org/share/2cb50f9710c60d7b2809ed49261f0773)
 
 
 ## **Courses that I've taught**

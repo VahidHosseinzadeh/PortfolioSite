@@ -39,6 +39,8 @@ I also like philosophy, coding, music and cinema. \\
 
 * [**\col{#62DA9E}{ResearchGate}**](https://www.researchgate.net/profile/Vahid-Hosseinzadeh)
 
+* [**Resume**](assets/resume.pdf)
+
 
 
 

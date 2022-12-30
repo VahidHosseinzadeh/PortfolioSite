@@ -108,8 +108,6 @@ Tel: +98(21)88385787
 ## **AWARDS** 
 * First rank student in M.Sc.physics (2012) [Shahid Bahonar University](https://uk.ac.ir/home).\\
 
-* Member of National [Elites Foundation of Iran](https://en.bmn.ir/).\\
-
 * 3 year of research grant from [Saramadan’e Elmi Iran](https://isef.ir/).
 
 ## **CONFERENCES** 
