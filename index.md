@@ -23,11 +23,11 @@ I also like philosophy, coding, music and cinema. \\
 
 # **\col{#6227B0}{LINKS}**
 
-* **Mobile** /  **Telegram**: `+989374490800`
+<!-- * **Mobile** /  **Telegram**: `+989374490800` -->
 
 * [**\col{#171515}{Github}** ](https://github.com/VahidHosseinzadeh)
 
-* [**\col{green}{Wahtsapp}**](https://wa.me/989374490800)
+<!-- * [**\col{green}{Wahtsapp}**](https://wa.me/989374490800) -->
 
 * [**\col{#0e76a8}{Linkedin}**](https://www.linkedin.com/in/vahid-hosseinzadeh/)
 
@@ -39,7 +39,7 @@ I also like philosophy, coding, music and cinema. \\
 
 * [**\col{#62DA9E}{ResearchGate}**](https://www.researchgate.net/profile/Vahid-Hosseinzadeh)
 
-* [**Resume**](assets/resume.pdf)
+
 
 
 
